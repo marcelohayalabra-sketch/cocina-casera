@@ -1,18 +1,1 @@
-[theme]
-primaryColor = "#d4af37"
-backgroundColor = "#faf8f3"
-secondaryBackgroundColor = "#ffffff"
-textColor = "#2c2c2c"
-font = "montserrat"
 
-[client]
-showErrorDetails = false
-toolbarMode = "minimal"
-
-[server]
-headless = true
-port = 8501
-runOnSave = true
-
-[logger]
-level = "warning"
